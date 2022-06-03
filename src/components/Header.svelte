@@ -5,21 +5,21 @@
 		<button on:click class="sm:hidden flex items-center shadow-sm">
 			<img class="hover:w-7" src="/images/icon-hamburger.svg" alt="icon-menu" />
 		</button>
-		<div class="hidden  sm:flex flex-grow justify-between text-lg font-Barlow ">
+		<div class="hidden  sm:flex flex-grow justify-between text-xs lg:text-md font-Barlow ">
 			<button
-				class="text-white hover:text-black hover:border-solid hover:rounded-full hover:bg-white px-6 py-2"
+				class="text-white hover:text-black hover:border-solid hover:rounded-full hover:bg-white px-3 py-2"
 				>About</button
 			>
 			<button
-				class="text-white hover:text-black hover:border-solid hover:rounded-full hover:bg-white px-6 py-2"
+				class="text-white hover:text-black hover:border-solid hover:rounded-full hover:bg-white px-3 py-2"
 				>Service</button
 			>
 			<button
-				class="text-white hover:text-black hover:border-solid hover:rounded-full hover:bg-white px-6 py-2"
+				class="text-white hover:text-black hover:border-solid hover:rounded-full hover:bg-white px-3 py-2"
 				>Projects</button
 			>
 			<button
-				class="text-white hover:text-black hover:border-solid hover:rounded-full hover:bg-white px-6 py-2"
+				class="text-white hover:text-black hover:border-solid hover:rounded-full hover:bg-white px-3 py-2"
 				>CONTACT</button
 			>
 		</div>
