@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:opsz,wght@9..144,700;9..144,900&display=swap');
+/* @import url('../static/fonts/stylesheet.css'); */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	/* @font-face {
+		font-family: 'Bolgart';
+		src: url('../static/fonts/BolgartDisplay.ttf') format('ttf');
+		font-weight: normal;
+		font-style: normal;
+	} */
+	html {
+		font-family: 'Bolgart', 'Barlow', 'Fraunces', sans-serif;
+		padding: 0;
+		margin: 0;
+	}
+}
