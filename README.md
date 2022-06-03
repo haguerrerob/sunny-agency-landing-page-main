@@ -36,7 +36,7 @@ Users should be able to:
 
 ![](./static/screenshots/ImageMobil.png)
 
-<center>
+</center>
 
 ### Links
 
